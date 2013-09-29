@@ -1,12 +1,9 @@
 a
 b
-ab
-a
-a
-b
 a
 a
 a
-bb
+a
+a
 a
 a
