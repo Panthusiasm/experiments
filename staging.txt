@@ -1,1 +1,14 @@
+<<<<<<< Updated upstream
 SUPERCALI
+=======
+original code
+original code
+original code
+original code
+original code
+original code
+original code
+original code
+original code
+original code
+>>>>>>> Stashed changes
